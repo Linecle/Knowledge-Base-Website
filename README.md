@@ -13,4 +13,5 @@ A knowledge base system built using HTML, CSS, JS, and PHP. The system organizes
 3. Access via `localhost` in your browser.
 
 ## License:
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Copyright © 2025 Linecle. All Rights Reserved.
+This website and its content are provided for viewing purposes only. Unauthorized reproduction, distribution, or modification of any materials is strictly prohibited.
